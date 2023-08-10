@@ -1,0 +1,15 @@
+Hey Folks!
+Here is a Power Bi Dashboard for #salesinsights , #timeseriesanalysis and #salesforecasting  #connections #sales #commerce
+*This Dashboard Provides Insights of Sales from a Store
+
+-> Interactive dashboard to track and analyze online sales data.
+-> Used DAX Queries to create new table .
+-> Calculated to manipulate data ,data cleaning (removing unwanted columns and Errors) and enable user-driven parameters for visualizations.
+-> Used different types of customized visualization (bar chart,pie chart,donut chart, clustered bar chart, scatter chart ,area chart ,map ,slicerset) .
+
+ Outcomes:-
+1.Total Sales based on states ,Payment Method ,Segments.
+2. What Shipmode is more preferred.
+3.Comparison of Sales by Months of 2 years using area chart.
+4. Sales forecasting for 15 days from data present.
+#data #powerbi #visualization
